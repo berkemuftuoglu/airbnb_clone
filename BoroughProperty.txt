@@ -1,0 +1,35 @@
+THE NUMBER OF PROPERTIES IN EACH BOROUGH
+
+Enfield: 301
+Westminster: 5360
+Hillingdon: 277
+Havering: 99
+Wandsworth: 2748
+Lewisham: 1502
+Tower Hamlets: 5613
+Hounslow: 647
+Redbridge: 383
+Southwark: 3359
+Camden: 3760
+Bromley: 391
+Lambeth: 3276
+Kensington and Chelsea: 3476
+Islington: 3583
+Barnet: 1012
+Richmond upon Thames: 872
+Kingston upon Thames: 316
+Harrow: 266
+Sutton: 147
+Haringey: 1493
+Brent: 1609
+Bexley: 115
+Hackney: 4688
+Greenwich: 917
+Hammersmith and Fulham: 2806
+Waltham Forest: 911
+Merton: 820
+Croydon: 553
+Newham: 1151
+Ealing: 1003
+City of London: 306
+Barking and Dagenham: 142

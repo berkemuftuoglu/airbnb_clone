@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="+libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/+libs/commons-lang3-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/commons-text-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/opencsv-4.1.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" />
+      <root url="file://$USER_HOME$/Documents/javafx-sdk-16/lib" />
+      <root url="file://$USER_HOME$/Desktop/Gluon Plugin/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" />
+      <root url="file://$USER_HOME$/Documents/javafx-sdk-16/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Gluon Plugin/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Documents/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

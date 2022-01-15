@@ -1,0 +1,36 @@
+/*
+Colour one
+ */
+
+.radio-button .radio{
+    -fx-background-insets: 0;
+}
+
+.huge{
+    -fx-color: Green;
+    -fx-scale-x: 1.5;
+    -fx-scale-y: 1.5;
+}
+
+.upmid{
+    -fx-color: Lime;
+    -fx-scale-x: 1.25;
+    -fx-scale-y: 1.25;
+}
+
+.mid{
+    -fx-color: Orange;
+    -fx-scale-x: 1;
+    -fx-scale-y: 1;
+}
+
+.low{
+    -fx-color: Yellow;
+    -fx-scale-x: 0.75;
+    -fx-scale-y: 0.75;
+}
+.minimal{
+    -fx-color: Red;
+    -fx-scale-x: 0.5;
+    -fx-scale-y: 0.5;
+}

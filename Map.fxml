@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="494.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MapPanel">
+   <children>
+      <ImageView fitHeight="499.0" fitWidth="750.0" layoutY="-5.0">
+         <image>
+            <Image url="@londonBoroughImage.gif" />
+         </image>
+      </ImageView>
+      <RadioButton fx:id="barnetButton" layoutX="247.0" layoutY="109.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="enfieldButton" layoutX="366.0" layoutY="73.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="harrowButton" layoutX="148.0" layoutY="93.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="hillingdonButton" layoutX="56.0" layoutY="117.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="brentButton" layoutX="197.0" layoutY="137.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="ealingButton" layoutX="141.0" layoutY="186.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="hounslowButton" layoutX="88.0" layoutY="282.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="richmondUponThamesButton" layoutX="140.0" layoutY="316.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="kingstonUponThamesButton" layoutX="216.0" layoutY="348.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="suttonButton" layoutX="302.0" layoutY="411.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="croydonButton" layoutX="366.0" layoutY="411.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="bromleyButton" layoutX="472.0" layoutY="397.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="mertonButton" layoutX="310.0" layoutY="348.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="wandsworthButton" layoutX="300.0" layoutY="301.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="lambethButton" layoutX="351.0" layoutY="309.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="lewishamButton" layoutX="432.0" layoutY="282.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="southwarkButton" layoutX="375.0" layoutY="281.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="bexleyButton" layoutX="552.0" layoutY="299.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="greenwichButton" layoutX="492.0" layoutY="273.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="walthamForestButton" layoutX="440.0" layoutY="136.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="redBridgeButton" layoutX="516.0" layoutY="146.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="haveringButton" layoutX="625.0" layoutY="186.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="barkingandDagenhamButton" layoutX="566.0" layoutY="156.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="newhamButton" layoutX="482.0" layoutY="210.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="towerHamletsButton" layoutX="425.0" layoutY="219.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="haringeyButton" layoutX="379.0" layoutY="109.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="camdenButton" layoutX="290.0" layoutY="155.0" mnemonicParsing="false" onAction="#secondWindow" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="islingtonButton" layoutX="345.0" layoutY="185.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="-0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="westminsterButton" layoutX="313.0" layoutY="235.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="hammersmithAndFulhamButton" layoutX="259.0" layoutY="252.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="kensingtonAndChelseaButton" layoutX="292.0" layoutY="236.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="hackneyButton" layoutX="378.0" layoutY="178.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.5" scaleY="0.5" scaleZ="0.5" stylesheets="@MapStyle.css" />
+      <RadioButton fx:id="cityOfLondonButton" layoutX="371.0" layoutY="210.0" mnemonicParsing="false" onAction="#secondWindow" scaleX="0.35" scaleY="0.35" scaleZ="0.35" stylesheets="@MapStyle.css" />
+      <Button fx:id="nextPage" layoutX="710.0" layoutY="453.0" mnemonicParsing="false" onAction="#goToNextPage" text="&gt;" />
+      <Button fx:id="previousPage" layoutX="14.0" layoutY="453.0" mnemonicParsing="false" onAction="#goToPreviousPage" text="&lt;" />
+   </children>
+</AnchorPane>
